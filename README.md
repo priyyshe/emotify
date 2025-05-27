@@ -1,2 +1,8 @@
-# emotify
-Chatbot edukasi literasi emosi untuk remaja, dibuat dengan Python &amp; Streamlit
+# Emotify
+
+Emotify adalah chatbot edukatif untuk meningkatkan literasi emosi remaja. Dibuat menggunakan Python dan Streamlit.
+
+## Cara Menjalankan
+```bash
+pip install -r requirements.txt
+streamlit run app.py
