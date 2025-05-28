@@ -20,7 +20,7 @@ if user_input:
     output = classifier(user_input)
 
     if output and isinstance(output, list) and isinstance(output[0], list) and len(output[0]) > 0:
-        result = output[0][0]  # akses dict di dalam list
+        result = output[0]  # akses dict di dalam list
         emotion = result['label'].lower()
         confidence = round(result['score'] * 100, 2)
 
