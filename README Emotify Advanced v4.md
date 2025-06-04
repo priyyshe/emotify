@@ -70,8 +70,7 @@ Remaja sering mengalami kesulitan dalam memahami, mengekspresikan, dan mengelola
 ## Link Deploy
 
 Aplikasi ini dapat diakses secara online melalui:
-🔗 **[Link ke Aplikasi Emotify Anda yang Sudah Di-deploy]**
-*(Contoh: https://nama-anda-emotify.streamlit.app/)*
+🔗 https://tdprmt-emotify-chatbot-emotifychatbotv4-qz7ypt.streamlit.app/
 
 ---
 
