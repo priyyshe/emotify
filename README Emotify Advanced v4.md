@@ -63,6 +63,7 @@ Remaja sering mengalami kesulitan dalam memahami, mengekspresikan, dan mengelola
 ## Preview Aplikasi
 
 *(Anda bisa menambahkan screenshot atau GIF dari aplikasi Emotify Advanced di sini. Tunjukkan fitur-fitur seperti input chat, grafik emosi, mode curhat, dan tantangan.)*
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/41bc933c-b209-46f6-921e-dc19ef17f9be" />
 
 ---
 
